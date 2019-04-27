@@ -1,7 +1,7 @@
 # FOC ESC HARDWARE
 FOC(Field-Oriented Control) ESC is aimed at high-performance BLDC motor control.
 
-The purpose of this repository is created to share the hardware design to:
+The purpose of this creating repository is to share the hardware design to:
 1. Get feedback from the community and improve it;
 2. Attract people that are interested in this and have the capability to join the software development.
 
