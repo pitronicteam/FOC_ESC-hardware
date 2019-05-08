@@ -31,4 +31,4 @@ We use AD(Altium Designer) for design.
 
 ## Getting Start
 
-Open the issue page and submit what you think to us.
+Open the issues page and submit what you think to us.
