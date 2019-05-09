@@ -21,7 +21,7 @@ The purpose of creating this repository is to share the hardware design to:
 
 - MCU: PAC5523(More info is [here](http://active-semi.com/products/intelligent-motor-control/pac5523).)
 - I/O: Check the [schematic we provide](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/files/FOC_ESC%20Schematic%20V1.1.pdf) for more detials. (Just click it, you can review it online.)
-- PCB: Check the [PCB file](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/files/FOC_ESC%20V1.0.PcbDoc) for more detials.
+- PCB: Check the [PCB file](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/files/FOC_ESC%20V1.1.PcbDoc) for more detials.
 
 ![FOC_ESC top](images/FOC_ESC%20top.png?raw=true "FOC_ESC top")
 ![FOC_ESC bottom](images/FOC_ESC%20bottom.png?raw=true "FOC_ESC bottom")
