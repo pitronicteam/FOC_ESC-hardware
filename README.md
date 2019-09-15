@@ -22,11 +22,11 @@ Hardware designs delivered by the project are listed below. We use AD(Altium Des
 
 ### Prototype PAC5523
 
-Prototype PAC5523 is our first FOC ESC hardware design. More info here.
+Prototype PAC5523 is our first FOC ESC hardware design. More info [here](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/PAC5523/README.md).
 
 ### Prototype G431 4IN1
 
-Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily amounted on drones. This design uses STM32G431KBU6 QFN32 chips. Reference design from STM's B-G431B-ESC1. More info here.
+Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily amounted on drones. This design uses STM32G431KBU6 QFN32 chips. Reference design from STM's B-G431B-ESC1. More info [here](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/STM32G431/README.md).
 
 - 2 phase current
 - High performance BEMF circuit
