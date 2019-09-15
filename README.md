@@ -34,6 +34,10 @@ Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily ammounted on d
 - SPI communication
 - 4 SK6812 RGB programmable LEDs
 
+### Hall Sensor
+
+For sensored FOC, we designed a hall sensor board.
+
 ## Commercial Use
 
 This project is under GPLv3.0. For commercial use, please contact us.
