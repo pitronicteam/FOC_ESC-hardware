@@ -26,7 +26,7 @@ Prototype PAC5523 is our first FOC ESC hardware design. More info here.
 
 ### Prototype G431 4IN1
 
-Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily ammounted on drones. This design uses STM32G431KBU6 QFN32 chips. Reference design from STM's B-G431B-ESC1. More info here.
+Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily amounted on drones. This design uses STM32G431KBU6 QFN32 chips. Reference design from STM's B-G431B-ESC1. More info here.
 
 - 2 phase current
 - High performance BEMF circuit
