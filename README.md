@@ -1,8 +1,8 @@
 # FOC ESC HARDWARE
 FOC(Field-Oriented Control) ESC is aimed at high-performance BLDC motor control.
 
-The purpose of creating this repository is to share the hardware design to:
-1. Get feedback from the community and improve it;
+The purpose of creating this repository is to share the hardware designs to:
+1. Get feedback from the community and improve them;
 2. Attract people that are interested in this and have the capability to join the software development.
 
 ## Advantages of FOC
@@ -17,19 +17,29 @@ The purpose of creating this repository is to share the hardware design to:
 - Improve efficiency
 - Improve speed accuracy and responsiveness
 
-## Details
+## Hardware Designs
+Hardware designs delivered by the project are listed below. We use AD(Altium Designer) for design.
 
-- Board name: CruxOne
-- MCU: PAC5523(More info is [here](http://active-semi.com/products/intelligent-motor-control/pac5523).)
-- I/O: Check the [schematic we provide](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/files/CruxOne_v1.2_schematic.pdf) for more detials. (Just click it, you can review it online.)
-- PCB: Check the [PCB file](https://github.com/AirFleetTeam/FOC_ESC-hardware/blob/master/files/FOC_ESC%20V1.1.PcbDoc) for more detials.
+### Prototype PAC5523
 
-![CruxOne_v1.2_top](images/CruxOne_v1.2_top.png?raw=true "CruxOne_v1.2_top")
-![CruxOne_v1.2_bottom](images/CruxOne_v1.2_bottom.png?raw=true "CruxOne_v1.2_bottom")
+Prototype PAC5523 is our first FOC ESC hardware design. More info here.
 
+### Prototype G431 4IN1
 
-We use AD(Altium Designer) for design.
+Prototype G431 4IN1 is a 30.5x30.5mm 4IN1 ESC which can be easily ammounted on drones. This design uses STM32G431KBU6 QFN32 chips. Reference design from STM's B-G431B-ESC1. More info here.
+
+- 2 phase current
+- High performance BEMF circuit
+- Support up to 6s
+- SPI communication
+- 4 SK6812 RGB programmable LEDs
+
+## Commercial Use
+
+This project is under GPLv3.0. For commercial use, please contact us.
 
 ## Getting Start
+
+We are active in betaflight slack group, join us in #open_esc_firmware. 
 
 Open the issues page and submit what you think to us.
