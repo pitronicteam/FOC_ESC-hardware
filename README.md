@@ -40,7 +40,7 @@ For sensored FOC, we designed a hall sensor board.
 
 ## Commercial Use
 
-This project is under GPLv3.0, all files are **FOR dvevlopment ONLY**. For commercial use, please contact us.
+This project is under GPLv3.0, all files are **FOR development ONLY**. For commercial use, please contact us.
 
 ## Getting Start
 
